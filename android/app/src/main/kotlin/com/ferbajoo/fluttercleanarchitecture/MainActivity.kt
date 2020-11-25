@@ -1,4 +1,4 @@
-package com.ferbajoo.flutter_clean_architecture
+package com.ferbajoo.fluttercleanarchitecture
 
 import io.flutter.embedding.android.FlutterActivity
 

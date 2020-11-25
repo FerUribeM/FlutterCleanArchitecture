@@ -1,6 +1,17 @@
 import 'package:flutter/material.dart';
 
-void main() {
+import 'src/di/di.dart';
+
+import 'src/presentation/pages/whatsapp_clean_page.dart';
+
+//TODO: Comando para crear las clases en tiempo de ejecución y poder correr la app
+// flutter packages pub run build_runner build
+
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+
+  await configureInjection();
+
   runApp(MyApp());
 }
 
@@ -9,7 +20,12 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Container()
+      title: 'Clean Architecture',
+      debugShowCheckedModeBanner: false,
+      initialRoute: 'whatsapp',
+      routes: {
+        'whatsapp': (context) => WhatsappCleanPage(),
+      },
     );
   }
 }

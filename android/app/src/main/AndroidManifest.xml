@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ferbajoo.flutter_clean_architecture">
+    package="com.ferbajoo.fluttercleanarchitecture">
    <application
-        android:label="flutter_clean_architecture"
+        android:label="fluttercleanarchitecture"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "87646906673",
+    "firebase_url": "https://chatflutter-200fb.firebaseio.com",
+    "project_id": "chatflutter-200fb",
+    "storage_bucket": "chatflutter-200fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87646906673:android:b6fc6710f0e06dca032810",
+        "android_client_info": {
+          "package_name": "com.ferbajoo.flutter_clean_architecture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87646906673-ls3kjmi89lkiar9g0qg3adnnrkaqrstm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtmh73O9BjpaKGw7LJumEAxNL-577KkiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87646906673-ls3kjmi89lkiar9g0qg3adnnrkaqrstm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

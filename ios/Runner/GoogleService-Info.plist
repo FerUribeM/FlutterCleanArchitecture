@@ -3,6 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
+<<<<<<< Updated upstream
 	<string>814330906831-klad46fqmfgp4hivn6uumrtcbevm4mir.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
 	<string>com.googleusercontent.apps.814330906831-klad46fqmfgp4hivn6uumrtcbevm4mir</string>
@@ -18,6 +19,23 @@
 	<string>chat-flutter-282b9</string>
 	<key>STORAGE_BUCKET</key>
 	<string>chat-flutter-282b9.appspot.com</string>
+=======
+	<string>87646906673-7350vgje6f2uea9k897b9te2t5i3q8tl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.87646906673-7350vgje6f2uea9k897b9te2t5i3q8tl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBXaTnhzVW_ww_wA0h3v56Ig4dBIT74PHE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>87646906673</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ferbajoo.fluttercleanarchitecture</string>
+	<key>PROJECT_ID</key>
+	<string>chatflutter-200fb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatflutter-200fb.appspot.com</string>
+>>>>>>> Stashed changes
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,8 +47,14 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
+<<<<<<< Updated upstream
 	<string>1:814330906831:ios:954d978655468d6731cfba</string>
 	<key>DATABASE_URL</key>
 	<string>https://chat-flutter-282b9.firebaseio.com</string>
+=======
+	<string>1:87646906673:ios:94b8f803a1efffff032810</string>
+	<key>DATABASE_URL</key>
+	<string>https://chatflutter-200fb.firebaseio.com</string>
+>>>>>>> Stashed changes
 </dict>
 </plist>
