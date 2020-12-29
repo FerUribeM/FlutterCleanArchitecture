@@ -1,35 +1,42 @@
 {
   "project_info": {
-    "project_number": "87646906673",
-    "firebase_url": "https://chatflutter-200fb.firebaseio.com",
-    "project_id": "chatflutter-200fb",
-    "storage_bucket": "chatflutter-200fb.appspot.com"
+    "project_number": "687884808982",
+    "firebase_url": "https://flutterchat-5cb54-default-rtdb.firebaseio.com",
+    "project_id": "flutterchat-5cb54",
+    "storage_bucket": "flutterchat-5cb54.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:87646906673:android:b6fc6710f0e06dca032810",
+        "mobilesdk_app_id": "1:687884808982:android:0f0071675422dceb5f1637",
         "android_client_info": {
           "package_name": "com.ferbajoo.flutter_clean_architecture"
         }
       },
       "oauth_client": [
         {
-          "client_id": "87646906673-ls3kjmi89lkiar9g0qg3adnnrkaqrstm.apps.googleusercontent.com",
+          "client_id": "687884808982-beg7oau412mutah7oau52r2k6v3i5knk.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBtmh73O9BjpaKGw7LJumEAxNL-577KkiQ"
+          "current_key": "AIzaSyCsLLVRV-s40Nrdy0JsqE9jqDmmU5d1Fo4"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "87646906673-ls3kjmi89lkiar9g0qg3adnnrkaqrstm.apps.googleusercontent.com",
+              "client_id": "687884808982-beg7oau412mutah7oau52r2k6v3i5knk.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "687884808982-t4lqne74vcmcgtprltvqdhcivpn2hiqa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ferbajoo.fluttercleanarchitecture"
+              }
             }
           ]
         }

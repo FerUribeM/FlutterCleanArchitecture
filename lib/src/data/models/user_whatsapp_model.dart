@@ -1,6 +1,7 @@
 class UserWhatsappModel{
 
-  String date, name, message;
+  String date, message, name;
+  bool isMyMessage;
 
-  UserWhatsappModel(this.date, this.name, this.message);
+  UserWhatsappModel(this.date,this.isMyMessage, this.message, this.name,);
 }
